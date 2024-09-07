@@ -47,7 +47,7 @@ let dados = [
     {
         "titulo": "IA Generativa e Criatividade",
         "descricao": "A IA generativa está revolucionando a criação de conteúdo, desde a geração de imagens e músicas até a escrita de textos. Ferramentas como o ChatGPT e o DALL-E 2 estão democratizando a criação e levantando questões sobre a originalidade e a autoria.",
-        "link": "https://openai.com/",
+        "link": "https://exame.com/bussola/a-inteligencia-artificial-e-a-criatividade-estao-em-guerra/",
         "tags": [
             "IA Generativa",
             "Criatividade",
@@ -61,7 +61,7 @@ let dados = [
     {
         "titulo": "IA e Ética: Desafios e Dilemas",
         "descricao": "Com o avanço da IA, surgem questões éticas complexas, como viés algorítmico, privacidade de dados e o impacto da automação no mercado de trabalho. É fundamental discutir e estabelecer diretrizes para o desenvolvimento responsável da IA.",
-        "link": "https://futurodamente.org.br/etica-na-inteligencia-artificial/",
+        "link": "https://www.unicep.edu.br/post/intelig%C3%AAncia-artificial-e-%C3%A9tica-conhe%C3%A7a-o-impacto-%C3%A9tico-da-ia-na-sociedade",
         "tags": [
             "IA",
             "Ética",
@@ -76,7 +76,7 @@ let dados = [
     {
         "titulo": "IA na Saúde: Diagnóstico e Tratamento",
         "descricao": "A IA está transformando a área da saúde, auxiliando no diagnóstico de doenças, desenvolvimento de novos medicamentos e personalização de tratamentos. Algoritmos de aprendizado de máquina podem analisar grandes volumes de dados médicos para identificar padrões e prever doenças.",
-        "link": "https://www.scielo.br/j/rbepid/a/b9k79x8m57v93m3v/?lang=pt",
+        "link": "https://pro.boehringer-ingelheim.com/br/now/inteligencia-artificial-revoluciona-o-diagnostico-e-tratamento-medico",
         "tags": [
             "IA",
             "Saúde",
@@ -90,7 +90,7 @@ let dados = [
     {
         "titulo": "IA e Metaverso: Uma Nova Realidade",
         "descricao": "A IA desempenha um papel fundamental no desenvolvimento do metaverso, um universo virtual compartilhado. Algoritmos de IA são utilizados para criar experiências imersivas, personalizar avatares e gerar conteúdo dinâmico.",
-        "link": "https://www.meta.com/",
+        "link": "https://www.bloomberglinea.com.br/negocios/ia-metaverso-e-chatbots-as-tendencias-que-vao-impactar-seu-trabalho-em-2024/",
         "tags": [
             "IA",
             "Metaverso",
@@ -103,7 +103,7 @@ let dados = [
     {
         "titulo": "IA e Sustentabilidade: Um Futuro Mais Verde",
         "descricao": "A IA pode ser uma aliada na busca por um futuro mais sustentável. Algoritmos podem otimizar o consumo de energia, prever desastres naturais e desenvolver soluções para problemas ambientais.",
-        "link": "https://www.un.org/en/artificial-intelligence",
+        "link": "https://www.ecommercebrasil.com.br/artigos/o-futuro-do-emprego-em-um-mundo-de-ia-e-sustentabilidade-verde",
         "tags": [
             "IA",
             "Sustentabilidade",
@@ -116,7 +116,7 @@ let dados = [
     {
         "titulo": "IA Explicável (XAI)",
         "descricao": "A IA explicável busca tornar os modelos de aprendizado de máquina mais transparentes e compreensíveis, permitindo que os usuários entendam como as decisões são tomadas. Isso é crucial em áreas como saúde e justiça.",
-        "link": "https://www.ibm.com/br/pt-br/topics/explainable-ai",
+        "link": "https://www.ibm.com/br-pt/topics/explainable-ai",
         "tags": [
             "IA Explicável",
             "XAI",
@@ -130,7 +130,7 @@ let dados = [
     {
         "titulo": "IA e Privacidade de Dados",
         "descricao": "A coleta e o uso de dados pessoais para treinar modelos de IA levantam questões importantes sobre privacidade. É preciso garantir que os dados sejam coletados e utilizados de forma ética e transparente.",
-        "link": "https://www.dataprev.gov.br/noticias/noticias/protecao-de-dados-pessoais-e-inteligencia-artificial-desafios-e-oportunidades",
+        "link": "https://www.migalhas.com.br/depeso/402781/a-ia-e-os-desafios-na-privacidadeov.br/noticias/noticias/protecao-de-dados-pessoais-e-inteligencia-artificial-desafios-e-oportunidades",
         "tags": [
             "IA",
             "Privacidade de Dados",
@@ -142,7 +142,7 @@ let dados = [
     {
         "titulo": "IA e Viés Algorítmico",
         "descricao": "Os algoritmos de IA podem perpetuar e amplificar vieses presentes nos dados de treinamento, levando a decisões injustas e discriminatórias. É fundamental desenvolver técnicas para mitigar esses vieses.",
-        "link": "https://www.kaggle.com/general/163795",
+        "link": "www.institutoliberal.org.br/blog/economia/inteligencia-artificial-e-o-vies-algoritmico/om/general/163795",
         "tags": [
             "IA",
             "Viés Algorítmico",
@@ -154,7 +154,7 @@ let dados = [
     {
         "titulo": "IA e Automação: O Futuro do Trabalho",
         "descricao": "A automação de tarefas por meio da IA está transformando o mercado de trabalho, criando novas oportunidades e demandando novas habilidades. É preciso discutir as implicações sociais e econômicas dessa transformação.",
-        "link": "https://www.weforum.org/agenda/2018/01/the-future-of-jobs-report-2018/",
+        "link": "https://www.zendesk.com.br/blog/inteligencia-artificial-no-futuro-do-trabalho/m.org/agenda/2018/01/the-future-of-jobs-report-2018/",
         "tags": [
             "IA",
             "Automação",
@@ -167,7 +167,7 @@ let dados = [
     {
         "titulo": "IA e Guerra",
         "descricao": "O desenvolvimento de armas autônomas e o uso da IA em conflitos armados levantam questões éticas e humanitárias complexas. É necessário um debate global sobre o uso responsável da IA em contextos militares.",
-        "link": "https://www.un.org/en/artificial-intelligence",
+        "link": "https://www1.folha.uol.com.br/tec/2024/06/seis-maneiras-como-a-ia-mudara-a-guerra-e-o-mundo.shtml",
         "tags": [
             "IA",
             "Guerra",
@@ -180,7 +180,7 @@ let dados = [
     {
         "titulo": "IA e Cidades Inteligentes",
         "descricao": "A IA está sendo utilizada para criar cidades mais inteligentes e eficientes, otimizando o transporte, gerenciando o consumo de energia e melhorando a qualidade de vida dos cidadãos.",
-        "link": "https://www.weforum.org/agenda/2017/11/how-ai-can-make-cities-smarter/",
+        "link": "https://isaebrasil.com.br/inteligencia-artificial/",
         "tags": [
             "IA",
             "Cidades Inteligentes",
@@ -193,7 +193,7 @@ let dados = [
     {
         "titulo": "IA e Deepfakes",
         "descricao": "Deepfakes são vídeos ou áudios falsos gerados por IA que podem ser usados para espalhar desinformação e manipular a opinião pública. É fundamental desenvolver ferramentas para detectar e combater esse tipo de conteúdo.",
-        "link": "https://www.deeptrace.io/",
+        "link": "https://www.cnnbrasil.com.br/noticias/saiba-o-que-e-deepfake-tecnica-de-inteligencia-artificial-que-foi-apropriada-para-produzir-desinformacao/",
         "tags": [
             "IA",
             "Deepfakes",
@@ -206,7 +206,7 @@ let dados = [
     {
         "titulo": "IA e Neurociência",
         "descricao": "A interseção entre IA e neurociência está impulsionando o desenvolvimento de novas tecnologias, como interfaces cérebro-computador e neuropróteses. Essas tecnologias têm o potencial de revolucionar o tratamento de doenças neurológicas e ampliar nossas capacidades cognitivas.",
-        "link": "https://www.nature.com/articles/s41593-021-00921-w",
+        "link": "https://institutoconectomus.com.br/chatgpt-inteligencia-artificial-e-neurociencia/",
         "tags": [
             "IA",
             "Neurociência",
@@ -219,7 +219,7 @@ let dados = [
     {
         "titulo": "IA e Arte",
         "descricao": "A IA está sendo utilizada para criar obras de arte, como pinturas, músicas e poemas. Essa nova forma de expressão artística levanta questões sobre a natureza da criatividade e o papel do artista em um mundo cada vez mais automatizado.",
-        "link": "https://www.artbreeder.com/",
+        "link": "https://www.ufmg.br/espacodoconhecimento/inteligencia-artificial-e-arte/",
         "tags": [
             "IA",
             "Arte",
