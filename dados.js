@@ -2,7 +2,7 @@ let dados = [
     {
         "titulo": "Inteligência Artificial",
         "descricao": "inteligência artificial (IA) representa um dos avanços tecnológicos mais significativos do nosso tempo. Essa área da ciência da computação busca desenvolver sistemas capazes de simular a inteligência humana, permitindo que máquinas aprendam, raciocinem e tomem decisões de forma autônoma. Desde os assistentes virtuais que respondem às nossas perguntas até os carros autônomos que conduzem por si mesmos, a IA está transformando diversos setores da sociedade, impulsionando a inovação e redefinindo a forma como interagimos com o mundo. A capacidade da IA de processar grandes volumes de dados e identificar padrões complexos abre um leque de possibilidades, desde a medicina personalizada até a criação de novas formas de arte. No entanto, o desenvolvimento da IA também levanta questões importantes sobre ética, privacidade e o futuro do trabalho.",
-        "link": "https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial",
+        "link": "https://brasilescola.uol.com.br/informatica/inteligencia-artificial.htm",
         "tags": [
             "Inteligência Artificial",
             "IA",
@@ -130,7 +130,7 @@ let dados = [
     {
         "titulo": "IA e Privacidade de Dados",
         "descricao": "A coleta e o uso de dados pessoais para treinar modelos de IA levantam questões importantes sobre privacidade. É preciso garantir que os dados sejam coletados e utilizados de forma ética e transparente.",
-        "link": "https://www.migalhas.com.br/depeso/402781/a-ia-e-os-desafios-na-privacidadeov.br/noticias/noticias/protecao-de-dados-pessoais-e-inteligencia-artificial-desafios-e-oportunidades",
+        "link": "https://kpmg.com/br/pt/home/insights/2023/12/desafio-privacidade-mundo-crescente-uso-ia.html",
         "tags": [
             "IA",
             "Privacidade de Dados",
@@ -142,7 +142,7 @@ let dados = [
     {
         "titulo": "IA e Viés Algorítmico",
         "descricao": "Os algoritmos de IA podem perpetuar e amplificar vieses presentes nos dados de treinamento, levando a decisões injustas e discriminatórias. É fundamental desenvolver técnicas para mitigar esses vieses.",
-        "link": "www.institutoliberal.org.br/blog/economia/inteligencia-artificial-e-o-vies-algoritmico/om/general/163795",
+        "link": "https://www.institutoliberal.org.br/blog/economia/inteligencia-artificial-e-o-vies-algoritmico/",
         "tags": [
             "IA",
             "Viés Algorítmico",
@@ -154,7 +154,7 @@ let dados = [
     {
         "titulo": "IA e Automação: O Futuro do Trabalho",
         "descricao": "A automação de tarefas por meio da IA está transformando o mercado de trabalho, criando novas oportunidades e demandando novas habilidades. É preciso discutir as implicações sociais e econômicas dessa transformação.",
-        "link": "https://www.zendesk.com.br/blog/inteligencia-artificial-no-futuro-do-trabalho/m.org/agenda/2018/01/the-future-of-jobs-report-2018/",
+        "link": "https://www.zendesk.com.br/blog/inteligencia-artificial-e-trabalho/",
         "tags": [
             "IA",
             "Automação",
