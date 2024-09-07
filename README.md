@@ -46,14 +46,3 @@ Este é um projeto simples e serve como ponto de partida para aprender mais sobr
 **Vamos juntos explorar o mundo da Inteligência Artificial!**
 
 **#IA #JavaScript #HTML #CSS #DesenvolvimentoWeb**
-
-**Observações:**
-
-* **Adapte este README:** Personalize este README com informações mais específicas sobre o seu projeto, como o propósito, as tecnologias utilizadas e como contribuir.
-* **Adicione imagens:** Use imagens para ilustrar o funcionamento da aplicação.
-* **Crie um arquivo `.gitignore`:** Inclua um arquivo `.gitignore` para evitar que arquivos desnecessários sejam enviados para o repositório.
-* **Utilize um linter:** Utilize um linter de código para garantir a qualidade do seu código.
-
-**Dica:** Para deixar seu README mais atrativo, você pode utilizar a sintaxe Markdown para formatar o texto.
-
-Com este README, você terá um guia completo para o seu projeto e facilitará a colaboração com outros desenvolvedores.
